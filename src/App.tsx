@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import GitHubCardsApp from './githubcardsapp/GitHubCardsApp'
-import StarMatch from './starmatchapp/starmatchapp'
+import StarMatch from './starmatchapp/StarMatch'
 
 class App extends Component {
   render() {
